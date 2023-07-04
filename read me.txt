@@ -1,0 +1,10 @@
+#!/bin/bash
+#!/usr/bin/env bash
+
+
+or
+
+
+for linux command line
+
+bash ./1.sh

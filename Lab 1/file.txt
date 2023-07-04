@@ -1,0 +1,26 @@
+1. Current directory
+	pwd
+2. List
+	ls
+3. Create a directory
+	mkdir directory_name
+4. Change directory
+	cd directory_name
+5. Create a File
+	touch "file_name.extension"
+6. writing in a file
+	echo "message" >> file_name.extension
+7. Read a file
+	cat file_name.extension
+8. Remove a File
+	rm file_name.extension
+9. Outside a directory
+	cd ..
+10. Romove a directory  // if directory is empty
+	rmdir directory_name
+11. Clear window
+	clear
+12. Move a File
+	mv "file_name.extension" ~/directory_name
+13. Copy & paste from a text to another
+	cp source_file_name.extension destination_file_name.extension

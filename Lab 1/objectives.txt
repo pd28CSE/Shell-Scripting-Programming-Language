@@ -1,0 +1,12 @@
+I learned how to use Linux terminal and by using this terminal how 
+to create  directory, remove directory, create text file, remove 
+text file, move  a text file to another directory, write in a text 
+file, Copy and paste  text from a text file to another file, clear 
+window, find current path.
+
+
+
+
+
+i understand basic use of linux terminal and use this 
+terminal i also understand file handling.
